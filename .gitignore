@@ -1,0 +1,15 @@
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+venv
+*.pyc
+build
+.idea
